@@ -1,5 +1,5 @@
 # git-test
 
-Beispielbild:
+Beispielbild: sieht gut aus!
 
 ![alt text](image.png)
