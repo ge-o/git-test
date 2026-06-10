@@ -1,4 +1,4 @@
 # git-test
 
 
-![alt text](image.jpg)
+![alt text](image.png)
